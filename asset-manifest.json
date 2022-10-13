@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jeesApp/static/css/main.143ec5cd.css",
+    "main.js": "/jeesApp/static/js/main.0a5e343b.js",
+    "index.html": "/jeesApp/index.html",
+    "main.143ec5cd.css.map": "/jeesApp/static/css/main.143ec5cd.css.map",
+    "main.0a5e343b.js.map": "/jeesApp/static/js/main.0a5e343b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.143ec5cd.css",
+    "static/js/main.0a5e343b.js"
+  ]
+}
