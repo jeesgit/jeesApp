@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jeesApp/static/css/main.143ec5cd.css",
-    "main.js": "/jeesApp/static/js/main.0a5e343b.js",
+    "main.css": "/jeesApp/static/css/main.7d466a3c.css",
+    "main.js": "/jeesApp/static/js/main.28fb8c4a.js",
     "index.html": "/jeesApp/index.html",
-    "main.143ec5cd.css.map": "/jeesApp/static/css/main.143ec5cd.css.map",
-    "main.0a5e343b.js.map": "/jeesApp/static/js/main.0a5e343b.js.map"
+    "main.7d466a3c.css.map": "/jeesApp/static/css/main.7d466a3c.css.map",
+    "main.28fb8c4a.js.map": "/jeesApp/static/js/main.28fb8c4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.143ec5cd.css",
-    "static/js/main.0a5e343b.js"
+    "static/css/main.7d466a3c.css",
+    "static/js/main.28fb8c4a.js"
   ]
 }
